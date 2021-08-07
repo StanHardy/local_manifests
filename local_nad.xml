@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="StanHardy/device_oneplus_hotdogb_nad" path="device/oneplus/hotdogb" revision="nad"  remote="github" />
-  <project name="StanHardy/device_oneplus_sm8150-common_nad" path="device/oneplus/sm8150-common" revision="nad"  remote="github" />
+  <project name="StanHardy/device_oneplus_hotdogb" path="device/oneplus/hotdogb" revision="nad"  remote="github" />
+  <project name="StanHardy/device_oneplus_sm8150-common" path="device/oneplus/sm8150-common" revision="nad"  remote="github" />
   <project name="RealJohnGalt/GaltsGulch-sm8150" path="kernel/oneplus/sm8150" revision="gulch_r" remote="github" />
   <project name="StanHardy/vendor_oneplus_hotdogb" path="vendor/oneplus/hotdogb" revision="dot11" remote="gitlab" />
   <project name="StanHardy/vendor_oneplus_sm8150-common" path="vendor/oneplus/sm8150-common" revision="dot11" remote="gitlab" />  
