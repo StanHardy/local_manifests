@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="StanHardy/device_oneplus_hotdogb" path="device/oneplus/hotdogb" revision="revengeos"  remote="github" />
-  <project name="StanHardy/device_oneplus_sm8150-common" path="device/oneplus/sm8150-common" revision="revengeos"  remote="github" />
-  <project name="StanHardy/android_kernel_oneplus_sm8150" path="kernel/oneplus/sm8150" revision="aospk" remote="github" />
-  <project name="yaap/vendor_oneplus" path="vendor/oneplus" revision="eleven" remote="github" />>  
-  <project name="yaap/device_oneplus_common" path="device/oneplus/common" revision="eleven" remote="github" />  
+  <project name="dotOS-Devices/device_oneplus_hotdogb" path="device/oneplus/hotdogb" revision="dot11"  remote="github" />
+  <project name="RevengeOS-Devices/device_oneplus_sm8150-common" path="device/oneplus/sm8150-common" revision="r11.0"  remote="github" />
+  <project name="matt0301/android_kernel_oneplus_sm8150" path="kernel/oneplus/sm8150" revision="gulch_r" remote="github" />
+  <project name="yaap/vendor_oneplus" path="vendor/oneplus" revision="eleven" remote="github" />
+  <project name="yaap/device_oneplus_common" path="device/oneplus/common" revision="eleven" remote="github" />
 </manifest>
