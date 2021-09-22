@@ -5,5 +5,5 @@
   <project name="matt0301/android_kernel_oneplus_sm8150" path="kernel/oneplus/sm8150" revision="gulch_r" remote="github" />
   <project name="yaap/vendor_oneplus" path="vendor/oneplus" revision="eleven" remote="github" />
   <project name="yaap/device_oneplus_common" path="device/oneplus/common" revision="eleven" remote="github" />
-  <project name="kdrag0n/proton-clang"  path="prebuilts/clang/host/linux-x86/proton-clang" revision="master" remote="github" clone-depth="1" />  
+  <project path="prebuilts/clang/host/linux-x86/clang-proton" name="kdrag0n/proton-clang" remote="github" revision="master" clone-depth="1" />
 </manifest>
