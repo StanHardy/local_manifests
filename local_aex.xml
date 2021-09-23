@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="czarsuperstar/device_oneplus_hotdogb" path="device/oneplus/hotdogb" revision="dot11"  remote="github" />
-  <project name="AospExtended-Devices/device_oneplus_sm8150-common" path="device/oneplus/sm8150-common" revision="11.x"  remote="github" />
+  <project name="StanHardy/device_oneplus_hotdogb" path="device/oneplus/hotdogb" revision="aospk"  remote="github" />
+  <project name="StanHardy/device_oneplus_sm8150-common" path="device/oneplus/sm8150-common" revision="aospk"  remote="github" />
   <project name="AospExtended-Devices/kernel_oneplus_sm8150" path="kernel/oneplus/sm8150" revision="11.x" remote="github" />
   <project name="AospExtended-Devices/proprietary_vendor_oneplus" path="vendor/oneplus" revision="11.x" remote="github" />
   <project name="AospExtended-Devices/device_oneplus_common" path="device/oneplus/common" revision="11.x" remote="github" />
